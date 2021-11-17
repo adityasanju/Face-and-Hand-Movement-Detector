@@ -1,4 +1,4 @@
 # faceandhandmovement
-It can recognize human faces, and the percentage confidence will be displayed at the top.
-Hand Tracking also integrated.
-Uses Mediapipe and OpenCV. Make sure these libraries are installed.
+It can recognize human faces and hand movements. The percentage confidence will be displayed at the top.
+
+
